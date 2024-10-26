@@ -1,1 +1,1 @@
-
+Place this folder inside your Arma 3 install directory, and then just click Patcher.bat to run.
